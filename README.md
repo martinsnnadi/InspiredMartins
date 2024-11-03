@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @martinsnnadi
-- 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning Azure 
-- 💞️ I’m looking to collaborate on Data Engineering/Cloud computing 
-- 📫 How to reach me martinsnnadi@yahoo.com 
-
-<!---
-dupxx/dupxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Welcome to My GitHub Profile! 
+I'm Martins Nnadi, an aspiring data engineer with a focus on data analytics and cloud computing. Check out some of my projects below and feel free to connect with me! 
+### 🔧 Skills 
+- Python
+- SQL
+- AWS
+- Data Visualization
+### 📈 Projects
+- [Data Cleaning Project](https://github.com/martinsnnadi/datacleaning)
+- [SQL Database Design](https://github.com/martinsnnadi/sqldesign)
+### 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/nnadi-martins-50628a42/)
+- [Email](mailto:martinsnnadi@yahoo.com.com)
