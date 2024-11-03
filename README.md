@@ -1,10 +1,11 @@
 ## Welcome to My GitHub Profile! 
-I'm Martins Nnadi, an aspiring data engineer with a focus on data analytics and cloud computing. Check out some of my projects below and feel free to connect with me! 
+I'm Martins Nnadi, an aspiring data engineer focusing on data analytics and cloud computing. Check out some of my projects below and feel free to connect with me! 
 ### 🔧 Skills 
 - Python
 - SQL
-- AWS
+- Power BI
 - Data Visualization
+- Azure
 ### 📈 Projects
 - [Data Cleaning Project](https://github.com/martinsnnadi/datacleaning)
 - [SQL Database Design](https://github.com/martinsnnadi/sqldesign)
