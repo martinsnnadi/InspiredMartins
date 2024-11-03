@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dupxx
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Javascript 
-- 📫 How to reach me dupradi@gmail.com 
+- 👋 Hi, I’m @martinsnnadi
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m currently learning Azure 
+- 💞️ I’m looking to collaborate on Data Engineering/Cloud computing 
+- 📫 How to reach me martinsnnadi@yahoo.com 
 
 <!---
 dupxx/dupxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
