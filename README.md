@@ -7,8 +7,8 @@ I'm Martins Nnadi, an aspiring data engineer focusing on data analytics and clou
 - Data Visualization
 - Azure
 ### 📈 Projects
-- [Data Cleaning Project](https://github.com/martinsnnadi/datacleaning)
-- [SQL Database Design](https://github.com/martinsnnadi/sqldesign)
+- [Data Cleaning Project](https://github.com/martinsnnadi/Data-Cleaning-on-SQL-Server)
+- [Daily Sales Analysis on PowerBI](https://github.com/martinsnnadi/PowerBI-Daily-Sales-Analysis)
 ### 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/nnadi-martins-50628a42/)
 - [Email](mailto:martinsnnadi@yahoo.com.com)
