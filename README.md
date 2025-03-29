@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile! 
-I'm Martins Nnadi, an aspiring data engineer focusing on data analytics and cloud computing. Check out some of my projects below and feel free to connect with me! 
+I'm Martins Nnadi, an aspiring data Analyst/engineer focusing on data analytics and cloud computing. Check out some of my projects below and feel free to connect with me! 
 ### 🔧 Skills 
 - Python
 - SQL
