@@ -11,4 +11,4 @@ I'm Martins Nnadi, an aspiring data Analyst/engineer focusing on data analytics 
 - [Daily Sales Analysis on PowerBI](https://github.com/martinsnnadi/PowerBI-Daily-Sales-Analysis)
 ### 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/nnadi-martins-50628a42/)
-- [Email](mailto:martinsnnadi@yahoo.com.com)
+- [Email](mailto:martinsnnadi@yahoo.com)
